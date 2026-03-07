@@ -1,0 +1,1 @@
+This script demonstrates basic data analysis and machine learning using Python. It loads the Wine Quality dataset, performs simple exploratory data analysis, and trains regression models to predict wine quality based on chemical properties.
